@@ -129,7 +129,7 @@
     
 → Claúsula ON: Permite o relacionamento de duas tabelas através de uma chave.
     
-## **Funções de Agragação**
+## **Funções de Agregação**
     
 → Realizam cálculos gerais ou em grupo de valores;
     
@@ -295,8 +295,4 @@
 **PARTITION BY:** Dentro de uma claúsula OVER. Dividirá as linhas de entrada em partições. É opcional;
     
 **ORDER BY:** Dentro da claúsula OVER. Ordenará as linhas de entrada de cada partição. É obrigatória para algumas funções.
- 
- 
- 
- 
  
