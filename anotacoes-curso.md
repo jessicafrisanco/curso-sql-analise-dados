@@ -166,6 +166,10 @@
 **LOG:** Retorna o logarítimo da primeira entrada na base da segunda entrada;
     
 **ROUND:** Arredonda o valor para o número de casas decimais escolhido;
+
+**FLOOR:** Arredonda o núero sempre para baixo, em direção ao zero; 
+
+**ROUND:** Arredonda o valor para o número de casas decimais escolhido;
     
 **MOD:** Retorna o resto da divisão da primeira entrada pela segunda;
     
